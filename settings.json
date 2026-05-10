@@ -1,14 +1,14 @@
 {
-  "name": "MATRIX",
+  "name": "AFK Bot",
   "bot-account": {
-    "username": "matrix",
+    "username": "Slobot00",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "Sameem1.aternos.me",
     "port": 52980,
-    "version": "1.21.1",
+    "version": "",
     "try-creative": false
   },
   "position": {
